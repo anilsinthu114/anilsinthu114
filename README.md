@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Sinthu</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer , Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsinthu114&label=Profile%20views&color=0e75b6&style=flat" alt="anilsinthu114" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Flask**
   
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **MERN projects and Java Projects**
 
 - 💬 Ask me about **Node.js, Express, MongoDB, MySQL, Java and Python**
 
