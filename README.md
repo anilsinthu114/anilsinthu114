@@ -14,9 +14,9 @@
 - 📫 How to reach me **anilsinthu114@gmail.com**
 
 - 📄 Know about my experiences :
-  <a href="https://linkedin.com/in/anilsinthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsinthu" height="10" width="10" /></a>
+  <a href="https://linkedin.com/in/anilsinthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilsinthu" height="20" width="20" /></a> <br>
   <a href="https://drive.google.com/file/d/1r4K2DK1bDaR6IprPABP1L0lP5Deo5l_8/view?usp=sharing">
-    <img src="https://img.icons8.com/?size=100&id=61514&format=png&color=000000" alt="Resume" height =10 width=10 />
+    <img src="https://img.icons8.com/?size=100&id=61514&format=png&color=000000" alt="Resume" height =20 width=20 />
 </a>
 
 
