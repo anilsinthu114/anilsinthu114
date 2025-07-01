@@ -69,4 +69,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsinthu114&show_icons=true&locale=en&theme=radical" alt="anilsinthu114" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsinthu114&theme=radical" alt="anilsinthu114" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsinthu114&theme=radical" alt="anilsinthu114"/></p>
